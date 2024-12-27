@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "GoodYARU",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(64, 69, 82)",
+      "toolbar_text": "rgb(238, 88, 40)",
+      "frame": "rgb(53, 59, 72)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(53, 59, 72)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(64, 69, 82)",
+      "popup": "rgb(53, 59, 72)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(64, 69, 82)"
+    }
+  }
+}
